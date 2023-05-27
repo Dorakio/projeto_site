@@ -1,0 +1,152 @@
+font{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.conteiner{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nav{
+    padding: 20px;
+    background-color: #f4f5f7;
+    margin-bottom: 2%;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+li{
+    display: inline-block;
+    margin: 0px 20px 0px 0px;
+}
+
+.logo{
+    width: 48px;
+    height: 32px;
+    margin-right: 52%;
+}
+
+.banner{
+    width: 772px;
+    height: 260px;
+    margin-left: 20%;
+    margin-bottom: 1%;
+}
+
+.poster{
+    width: 345px;
+    height: 145px;
+    margin-left: 4%;
+}
+
+.poster1{
+    width: 29%;
+    height: 260px;
+    margin-left: 20%;
+    margin-bottom: 30px;
+    background-color: #f4f5f7;
+}
+
+.poster2{
+    width: 29%;
+    height: 260px;
+    margin-left: 1.7%;
+    margin-bottom: 30px;
+    background-color: #f4f5f7;
+}
+
+.chamada{
+    margin-left: 4%;
+    margin-top: 4%;
+    margin-bottom: 0px;
+}
+
+.pInicio{
+    margin-left: 4%;
+    margin-top: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #19192f;
+}
+
+.galeria1{
+    width: 30%;
+    height: 200px;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    margin-top: 1%;
+}
+
+.galeria2{
+    width: 30%;
+    height: 200px;
+    margin-bottom: 5%;
+    margin-top: 1%;
+}
+
+.galeria3{
+    width: 30%;
+    height: 200px;
+    margin-bottom: 5%;
+    margin-top: 1%;
+}
+
+.obras{
+    width: 192px;
+    height: 141px;
+    margin-left: 25%;
+}
+
+.center{
+    text-align: center;
+}
+
+.botao{
+    text-align: right;
+    margin-right: 0.5%;
+}
+
+.formulario{
+    width: 40%;
+    margin-left: 30%;
+}
+
+.metade{
+    float: left;
+    width: 48%;
+    margin-bottom: 30px;
+}
+
+.metade2{
+    margin-left: 17%;
+    width: 35%;
+}
+.mensagem{
+    margin-bottom: 40px;
+}
+
+.blog{
+    width: 345px;
+    margin-left: 37.5%;
+}
+
+.titulo{
+    margin-left: 1.5%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.iBlog{
+    width: 345px;
+    height: 145px;
+}
+
+.noticias{
+    margin-bottom: 15%;
+}
